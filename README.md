@@ -1,4 +1,4 @@
-# BitzPrices
+# BitzPrice
 
 Small web app build with Next.JS to fetch bitcoin prices from the Coindesk API.
 
